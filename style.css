@@ -71,7 +71,10 @@ body {
   background-color: var(--primaryColor);
   color: var(--secondaryColor);
 }
-
+.active {
+  background-color: var(--primaryColor);
+  color: var(--secondaryColor) !important;
+}
 .products {
   padding: 4rem 0;
 }
