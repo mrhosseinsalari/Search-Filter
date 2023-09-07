@@ -1,7 +1,9 @@
 # Search-Filter
-This project developed with HTML, CSS and JavaScript
+Developed with HTML, CSS and JavaScript
 
-In order for the project to work properly, you need to do the following because my project uses a local api and you need to use the json-server package to connect to it :
+This project uses a local API and you need to install the json-server package to connect to it .
+
+## Steps to use
 
 1. Install JSON Server
 
@@ -15,4 +17,4 @@ npm install -g json-server
 json-server --watch db.json
 ```
 
-Now you can run the application !
+3. Run the application !
