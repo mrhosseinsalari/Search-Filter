@@ -60,6 +60,7 @@ body {
 .filter-box a {
   display: block;
   text-decoration: none;
+  cursor: pointer;
   color: var(--primaryColor);
   border: 1px solid var(--primaryColor);
   font-weight: bold;
